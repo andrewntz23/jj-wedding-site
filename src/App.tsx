@@ -26,13 +26,13 @@ function App() {
       </div>
       <div className="App-footer">
         <img
-          src="/dice.png"
+          src="dice.png"
           alt="and if you don't know what to say, roll for a prompt"
           style={{ width: "30%", height: "auto" }}
           onClick={handleClick}
         />
         <img
-          src="/circlelogo.png"
+          src="circlelogo.png"
           alt="good times logo"
           style={{ width: "10%", height: "auto", margin: "3rem" }}
         />
