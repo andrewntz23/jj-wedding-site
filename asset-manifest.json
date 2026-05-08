@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/jj-wedding-site/static/css/main.a80e1f0e.css",
-    "main.js": "/jj-wedding-site/static/js/main.e2d7dc88.js",
+    "main.js": "/jj-wedding-site/static/js/main.7b8ea903.js",
     "static/js/453.dac1daa1.chunk.js": "/jj-wedding-site/static/js/453.dac1daa1.chunk.js",
     "static/media/TAYBenditos.otf": "/jj-wedding-site/static/media/TAYBenditos.27f01ac88296cae4e150.otf",
     "index.html": "/jj-wedding-site/index.html",
     "main.a80e1f0e.css.map": "/jj-wedding-site/static/css/main.a80e1f0e.css.map",
-    "main.e2d7dc88.js.map": "/jj-wedding-site/static/js/main.e2d7dc88.js.map",
+    "main.7b8ea903.js.map": "/jj-wedding-site/static/js/main.7b8ea903.js.map",
     "453.dac1daa1.chunk.js.map": "/jj-wedding-site/static/js/453.dac1daa1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a80e1f0e.css",
-    "static/js/main.e2d7dc88.js"
+    "static/js/main.7b8ea903.js"
   ]
 }
