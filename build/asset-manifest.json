@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c2d034f.css",
+    "main.js": "/static/js/main.b5b55af9.js",
+    "static/js/307.b7ab40c4.chunk.js": "/static/js/307.b7ab40c4.chunk.js",
+    "static/media/TAYBenditos.otf": "/static/media/TAYBenditos.27f01ac88296cae4e150.otf",
+    "index.html": "/index.html",
+    "main.0c2d034f.css.map": "/static/css/main.0c2d034f.css.map",
+    "main.b5b55af9.js.map": "/static/js/main.b5b55af9.js.map",
+    "307.b7ab40c4.chunk.js.map": "/static/js/307.b7ab40c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c2d034f.css",
+    "static/js/main.b5b55af9.js"
+  ]
+}
