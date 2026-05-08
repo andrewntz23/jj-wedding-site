@@ -1,4 +1,4 @@
-2import { useState } from "react";
+import { useState } from "react";
 import "./App.css";
 import "./index.css";
 import { fetchNewQuestion } from "./utils.ts";
