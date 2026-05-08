@@ -26,13 +26,13 @@ function App() {
       </div>
       <div className="App-footer">
         <img
-          src={process.env.PUBLIC_URL + "/dice.png"}
+          src="https://andrewntz23.github.io/jj-wedding-site/Dice.png"
           alt="and if you don't know what to say, roll for a prompt"
           style={{ width: "30%", height: "auto" }}
           onClick={handleClick}
         />
         <img
-          src={process.env.PUBLIC_URL + "/circlelogo.png"}
+          src="https://andrewntz23.github.io/jj-wedding-site/CircleLogo.png"
           alt="good times logo"
           style={{ width: "10%", height: "auto", margin: "3rem" }}
         />
