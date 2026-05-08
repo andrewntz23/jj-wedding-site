@@ -1,4 +1,4 @@
-import { useState } from "react";
+2import { useState } from "react";
 import "./App.css";
 import "./index.css";
 import { fetchNewQuestion } from "./utils.ts";
@@ -26,13 +26,13 @@ function App() {
       </div>
       <div className="App-footer">
         <img
-          src="dice.png"
+          src={process.env.PUBLIC_URL + "/dice.png"}
           alt="and if you don't know what to say, roll for a prompt"
           style={{ width: "30%", height: "auto" }}
           onClick={handleClick}
         />
         <img
-          src="circlelogo.png"
+          src={process.env.PUBLIC_URL + "/circlelogo.png"}
           alt="good times logo"
           style={{ width: "10%", height: "auto", margin: "3rem" }}
         />
