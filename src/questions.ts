@@ -7,7 +7,7 @@ export const QUESTIONS: string[] = [
   "Sing us a song",
   "Give us a fun fact (about anything)",
   "In one word, describe Jack and Jess as a couple",
-  "Do you like our wedding (lol, please say yes)",
+  "Are you having a good time?",
   "Predict Jack and Jess' future. What are we up to in 10 years?",
   "Show us a dance move",
   "Share a fact about the bride or groom",
@@ -17,6 +17,5 @@ export const QUESTIONS: string[] = [
   "Describe Jack in 3 words",
   "Describe Jess in 3 words",
   "If the bride and groom's story were a movie, who is playing the bride? And the groom?",
-  "Do your best impression of the White Lotus soundtrack",
   "Do your best impression of the “Defying Gravity” end riff",
 ];
